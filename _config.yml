@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://LazyRen.github.io
+url:                   https://chan030609.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -20,7 +20,7 @@ baseurl:               ''
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  ko-KR, en-US
+lang:                  en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 J. Lee
@@ -197,7 +197,7 @@ disqus:                lazyrengithub
 # Make sure all variables are set properly. Check below link for detail.
 # https://utteranc.es/
 utterances:
-  repo:                "LazyRen/LazyRen.github.io"
+  repo:                "chan030609/chan030609.github.io"
   issue-term:          "pathname"
   label:               "Comments"
   theme:               "dark-blue"
@@ -237,7 +237,7 @@ hydejack:
   # Set to true to disable the built-in search functionality.
   # Note that search is disabled during local use to save on build time.
   # Run Jekyll with the `JEKYLL_ENV` environment variable set to `production` to enable.
-  no_search:           false
+  no_search:           true
 
   # Set to `true` if you do not want parts of the css inlined in <head/>
   # This will increase site build speed dramatically!

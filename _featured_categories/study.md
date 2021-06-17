@@ -6,5 +6,5 @@ slug: study
 sidebar: true
 order: 3
 description: >
-  Informal Studies on Any Field of Computer Science
+  Studies on any field of computer science or the status quo of my life in general.
 ---
