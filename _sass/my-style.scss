@@ -1,0 +1,84 @@
+.dl-table {
+  a {
+    @supports ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
+      text-underline-offset: .7rem;
+    }
+    @supports not ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
+      padding-bottom: .3rem;
+    }
+  }
+
+  .btn, .gumroad-button  {
+    margin: 1rem 0;
+  }
+}
+.dl-table {
+  a {
+    padding-bottom: 0.4rem;
+  }
+
+  .btn {
+    margin: 1.5rem 0;
+  }
+}
+
+// applause-button
+
+applause-button {
+  width: 80px;
+  height: 80px;
+  margin: 0 auto;
+
+  .count-container {
+    color: inherit;
+  }
+}
+
+// Utterances
+
+.utterances {
+  max-width: 100%;
+}
+
+// Resume
+
+.project-date {
+  font-weight: var(--font-weight);
+  display: inline;
+}
+
+// Printing
+
+@media print {
+   a[href]:after {
+      display: none;
+      visibility: hidden;
+   }
+}
+
+// Image centering
+
+img.centered {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+// iframe
+
+.iframe-container {
+  overflow: hidden;
+  /* 16:9 aspect ratio */
+  padding-top: 56.25%;
+  position: relative;
+  margin: 1rem;
+}
+
+.iframe-container iframe {
+   border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;
+}

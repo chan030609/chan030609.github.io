@@ -1,0 +1,179 @@
+basics:
+  name: "Jaechan Lee"
+  label: "Computer Scientist"
+  picture: /assets/img/seattle.png
+  email: "chanylee77@gmail.com"
+  phone: "669-225-8725"
+  website: "https://chan030609.github.io/"
+  summary: >
+    Hello, this is Jaechan Lee.<br>
+    I like to solve complex problems in the fields of CS and ML.<br>
+    I consider myself as a fast, ambitious learner;<br>
+  # location:
+  #   address: "2712 Broadway St"
+  #   postalCode: "CA 94115"
+  #   city: "San Francisco"
+  #   countryCode: "US"
+  #   region: "California"
+  profiles:
+    - network: "Github"
+      username: "chan030609"
+      url: "https://github.com/chan030609"
+    - network: "Twitter"
+      username: "Jaechan Lee"
+      url: "https://twitter.com/_jaechanlee"
+  
+volunteer:
+  - organization: "HSC Silicon Valley Youth Organization"
+    position: "Co-Founder, President"
+    website: "https://hsc-club.wixsite.com/home"
+    startDate: "2019"
+    endDate: ""
+    summary: "Lecturing computer science (Arduino/Python), leading CS projects"
+    highlights:
+      - "Managing a YouTube channel"
+      - "Python"
+      - "Arduino"
+  - organization: "Han Sarang Korean School"
+    position: "Mentor, Volunteer"
+    website: ""
+    startDate: "2018"
+    endDate: ""
+    summary: "Mentoring & helping Korean-American students to learn the Korean American Language."
+    highlights:
+  
+work:
+  - company: "Self-employed"
+    position: "Tutor"
+    website: ""
+    startDate: "2021-01-11"
+    endDate: ""
+    summary: >
+      "1:1 Tutoring Korean American students with an hourly wage"
+    highlights: 
+
+education:
+
+  - institution: "Leland High School"
+    area: "AP STEM Classes"
+    gpa: "3.95 / 4.0 (UW)"
+    courses:
+      - "AP Computer Science A"
+      - "AP Calculus BC"
+      - "Math 73/78"
+      - "AP Physics I/II"
+
+  - institution: "DeepLearning.AI"
+    area: "Machine Learning"
+    gpa: "4.0 / 4.0"
+    courses:
+      - "Deep Learning Specialization"
+      - "Generative Adversarial Network (GAN) Specialization"
+
+  - institution: "Foothill College"
+    area: "Business"
+    gpa: "4.0 / 4.0"
+    courses:
+      - "Intro to Business"
+
+  - certificate: "Deep Learning Certificate from Coursera"
+    date: "2021-04-25"
+  - certificate: "Regularization and Optimization Certificate from Coursera"
+    date: "2021-05-12"
+  - certificate: "ML Project / ML Ops Certificate from Coursera"
+    date: "2021-05-23"
+  - certificate: "CNN Computer Vision Certificate from Coursera"
+    date: "2021-06-12"
+  - certificate: "Sequence Model NLP Certificate from Coursera"
+    date: "2021-06-21"
+  
+projects:
+
+  - title: "Scientific Visualization of Music"
+    startDate: "2021-05-01"
+    endDate: "2021-05-23"
+    summary: "Building a math library for Fast Fourier Transform and performing frequency analysis"
+    url: "https://github.com/LazyRen/2019-Concurrent-Programming/tree/master/project3"
+    highlights:
+      - "Calculus and Discrete Mathematics"
+      - "Fast Fourier Transform (FFT) Algorithm"
+      - "JavaScript"
+
+  - title: "Optimal Algorithm for Sentiment Analysis on Twitter"
+    startDate: "2020-12-23"
+    endDate: "2021-02-23"
+    summary: "Performing a sentiment analysis on Twitter API with various NLP algorithms such as CNN, RNN, Transformer"
+    url: "https://lazyren.github.io/tag-bwtree/"
+    highlights:
+      - "Analyis on NLP Algirhtms"
+      - "Python/PyTorch"
+
+  - title: "COVID-19 Detection"
+    startDate: "2021-02-25"
+    endDate: "2021-03-25"
+    summary: "Detecting COVID-19 with Convolutional Neural Network"
+    url: "https://github.com/LazyRen/2018-Operating-Systems"
+    highlights:
+      - "Convolutional Neural Network"
+      - "Computer Vision"
+      - "Python/PyTorch"
+
+awards:
+  - title: "Silver Medal"
+    awarder: "Kaggle"
+    summary: "Kaggle Plant Pathology Competition, an international data science competition for professionals; awarded to Top 10%"
+    highlights: ""
+  - title: "Junior Leadership Award Gold"
+    awarder: "Han Sarang Korean Language School"
+    summary: "In recognition for excellen contribution and leadership to promote Korean heritage education"
+  - title: "President's Volunteer Service Award"
+    awarder: "President of the United States"
+    summary: "100 hours of volunteer service in one year"
+
+# publications:
+#   - name: "Video compression for 3d media"
+#     publisher: "Hooli"
+#     releaseDate: "2014-10-01"
+#     website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
+#     summary: "Innovative middle-out compression algorithm that changes the way we store data."
+skills:
+  - name: "Machine Learning"
+    level: "Master"
+    keywords:
+      - "Data Science"
+      - "Python programming"
+      - "PyTorch/TensorFlow"
+  - name: "Mathematics"
+    level: "Master"
+    keywords:
+      - "Multivariable Calculus"
+      - "Applied Mathematics"
+  - name: "Web Development"
+    level: "Intermediate"
+    keywords:
+      - "HTML/CSS/JavaScript"
+      - "Angular.js"
+      - "Node.js"
+languages:
+  - language: "Korean"
+    fluency: "Native speaker"
+  - language: "English"
+    fluency: "Native speaker"
+  - language: "Spanish"
+    fluency: "Limited working proficiency"
+interests:
+  - name: "Activity"
+    keywords:
+      - "Tennis"
+      - "Cycling"
+  - name: "Reading"
+    keywords:
+      - "End of Work by Jeremy Rifkin"
+      - "Beyond Order by Jordan Peterson"
+      - "arXiv.com"
+  - name: "Gaming"
+    keywords:
+      - "Board Games"
+      - "League of Legends"
+
+# <https://jsonresume.org/>
